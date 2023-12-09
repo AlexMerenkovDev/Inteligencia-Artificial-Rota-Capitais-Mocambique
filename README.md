@@ -3,7 +3,7 @@
 Este repositório contém a implementação de uma solução prática de Inteligência Artificial para encontrar a melhor rota entre as cidades capitais de Moçambique. 
 O problema é modelado como um grafo, e a solução é desenvolvida em Python, incluindo uma interface de usuário construída com a biblioteca tkinter.
 
-### Recursos
+### Recursos:
 
  - Implementação em Python. <br>
  - Interface de usuário interativa com tkinter. <br>
