@@ -1,4 +1,4 @@
-# Busca da Melhor Rota
+# Busca pela Melhor Rota
 
 ## Descrição
 
@@ -11,16 +11,33 @@ O objetivo principal deste trabalho é encontrar a melhor rota para viajar entre
  - Distância;
  - Custo;
  - Tempo de viagem;
- - Estado da estrada. 
+ - Estado da estrada;
+ - A cidade de origem e destino.
 
 Isso será alcançado por meio de um algoritmo de busca em profundidade iterativa.
 
-### Recursos:
+## Definição do Problema de Busca
+Cada cidade será considerada um estado, e cada estrada que conecta uma cidade à outra será tratada como uma ação.
+ - Estado: Cidade
+ - Acção: Estrada
+
+
+### A solução
+Será representada pela sequencia de estado e acções, isto é, cidades e as estradas que levaram a melhor rota.
+
+## Recursos:
 
  - Implementação em Python. <br>
  - Interface de usuário interativa com tkinter. <br>
  - Resolução de problemas de roteamento entre cidades capitais moçambicanas. <br>
  - Abordagem de Inteligência Artificial para otimização de rotas. <br>
  - Metodo de busca de aprofundamento iterativo <br>
- 
+
+## Interface
+A interface é composta por 3 telas:
+ - Tela inicia: com uma pequena introducao ao programa;
+ - Tela do calculo: apresenta a escolha das cidades inicial e final, os critérios, o botão de calculo e a solução;
+ - Tela de detalhes: que apresenta mais detalhes da solução.
+
+
 Sinta-se à vontade para explorar o código-fonte, contribuir ou utilizar este projeto para entender melhor a aplicação de técnicas de IA em problemas práticos de otimização de rotas.
