@@ -35,9 +35,9 @@ Será representada pela sequencia de estado e acções, isto é, cidades e as es
 
 ## Interface
 A interface é composta por 3 telas:
- - Tela inicia: com uma pequena introducao ao programa;
- - Tela do calculo: apresenta a escolha das cidades inicial e final, os critérios, o botão de calculo e a solução;
- - Tela de detalhes: que apresenta mais detalhes da solução.
+ - Tela 1 (inicial): com uma pequena introducao ao programa;
+ - Tela 2 (calculo): apresenta a escolha das cidades inicial e final, os critérios, o botão de calculo e a solução;
+ - Tela 3 (detalhes): que apresenta mais detalhes da solução.
 
 
 Sinta-se à vontade para explorar o código-fonte, contribuir ou utilizar este projeto para entender melhor a aplicação de técnicas de IA em problemas práticos de otimização de rotas.
